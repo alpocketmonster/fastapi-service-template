@@ -3,7 +3,9 @@
 ## Launch
 
 ### Set up
+```bash
 pip install -r requirements.txt -c constraints.txt
+```
 
 ### Run app
 
