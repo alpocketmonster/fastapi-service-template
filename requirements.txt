@@ -1,0 +1,8 @@
+aioprometheus
+ecs-logging
+fastapi[all]
+psutil
+pydantic
+sentry-sdk
+structlog
+uvicorn[standard]
